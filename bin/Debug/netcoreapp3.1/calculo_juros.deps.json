@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calculo_juros/1.0.0": {
+        "runtime": {
+          "calculo_juros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculo_juros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

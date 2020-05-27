@@ -1,0 +1,13 @@
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.exe
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.deps.json
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.runtimeconfig.json
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.runtimeconfig.dev.json
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.dll
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\bin\Debug\netcoreapp3.1\calculo_juros.pdb
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.csprojAssemblyReference.cache
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.csproj.CoreCompileInputs.cache
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.AssemblyInfoInputs.cache
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.AssemblyInfo.cs
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.dll
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.pdb
+C:\Users\Cleberson\Desktop\C#\Curso\calculo_juros\obj\Debug\netcoreapp3.1\calculo_juros.genruntimeconfig.cache
